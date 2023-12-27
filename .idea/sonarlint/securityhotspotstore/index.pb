@@ -9,3 +9,7 @@ D
 Lcore-service/src/main/java/com/chige/coreservice/CoreServiceApplication.java,6/0/608d6994895c3b02110836d356e5c2b3c46b22bd
 w
 Ginterfaces/src/main/java/com/chige/interfaces/facade/DDDController.java,4/6/4611daa4582896276ee084e937917658306e6aa7
+>
+tester/pom.xml,8/8/886605ccf82cc1dbee831553e972ef799c5a0a23
+@
+ddd-core/pom.xml,1/f/1fa144cbe4ed9ada1cf4aef42468935d40ee42b8
