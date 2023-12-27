@@ -10,6 +10,7 @@
         <module name="common-service-gateway" />
         <module name="common-dal" />
         <module name="core-model" />
+        <module name="tester" />
         <module name="assembler" />
         <module name="ddd-core" />
         <module name="common-service-integration" />
@@ -29,6 +30,7 @@
       <module name="core-service" options="-parameters" />
       <module name="ddd-common" options="-parameters" />
       <module name="ddd-core" options="-parameters" />
+      <module name="tester" options="-parameters" />
     </option>
   </component>
 </project>
