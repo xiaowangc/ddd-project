@@ -1,0 +1,12 @@
+/.idea/
+/assembler/.mvn/
+/common-dal/.mvn/
+/common-service-gateway/.mvn
+/common-service-integration/.mvn
+/common-util/.mvn
+/core-model/.mvn
+/core-service/.mvn
+/ddd-common/.mvn
+/ddd-core/.mvn
+/interfaces/.mvn
+/tester/.mvn

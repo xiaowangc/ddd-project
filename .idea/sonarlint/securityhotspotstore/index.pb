@@ -13,3 +13,6 @@ Ginterfaces/src/main/java/com/chige/interfaces/facade/DDDController.java,4/6/46
 tester/pom.xml,8/8/886605ccf82cc1dbee831553e972ef799c5a0a23
 @
 ddd-core/pom.xml,1/f/1fa144cbe4ed9ada1cf4aef42468935d40ee42b8
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
