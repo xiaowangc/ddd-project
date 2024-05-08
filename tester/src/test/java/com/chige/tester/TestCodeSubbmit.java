@@ -12,6 +12,7 @@ class TestCodeSubbmit {
       int i = 0;
       int b = 1;
       int c = i + b;
+      int d = b + c;
     }
 
 }
