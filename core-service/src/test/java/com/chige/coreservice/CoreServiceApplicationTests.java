@@ -10,4 +10,11 @@ class CoreServiceApplicationTests {
     void contextLoads() {
     }
 
+    private int count() {
+        int a = 1;
+        int b = a * 10;
+        int c = a / b;
+        return c;
+    }
+
 }
