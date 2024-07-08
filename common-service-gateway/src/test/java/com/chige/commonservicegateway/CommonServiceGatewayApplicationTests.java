@@ -10,4 +10,7 @@ class CommonServiceGatewayApplicationTests {
     void contextLoads() {
     }
 
+    private int countGatewayNum(int b, int c) {
+        return b + c;
+    }
 }
